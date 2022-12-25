@@ -1,0 +1,8 @@
+pwd
+ls 
+cd desctop
+mkdir itcp
+cd itcp
+mkdir ITC
+cd..
+mv  Sharing-is-caring  itcp/ITC
