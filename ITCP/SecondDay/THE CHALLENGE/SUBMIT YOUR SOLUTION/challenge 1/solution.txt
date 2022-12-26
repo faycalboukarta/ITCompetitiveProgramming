@@ -1,0 +1,5 @@
+grep -r "Assia ben daoud" text.txt
+
+grep -r "Assia ben daoud" faycal.txt | xargs sed -i '/Assia ben daoud/d'
+
+grep -r "Assia ben daoud" faycal.txt | xargs sed -i.bak '/Assia ben daoud/d'

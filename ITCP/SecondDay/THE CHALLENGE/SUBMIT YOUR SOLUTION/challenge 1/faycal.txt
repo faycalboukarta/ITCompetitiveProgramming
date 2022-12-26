@@ -1,0 +1,3 @@
+Ahmed is a student who loves LINUX, he uses it nearly everyday, one day his teacher asked his class to write a report about all the courses they took during this last semester and he asked them to do this in assignment in pairs... ofc, Ahmed did find someone to work with, yet he was so inactive and lazy , he didnt help him much.... after finishing the assigment, Ahmed got in a fight with his mate so he dicided to remove his name from all the assignment files .. yet he wasnt sure how to do it.. in this challenge you are asked to help Ahmed by finding the suitable command that will delete the phrase " Assia ben daoud " from all the text files (with a .txt extension) recursively.
+
+Note that some files are in subdirectories so you will need to search for them.
